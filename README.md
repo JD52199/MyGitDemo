@@ -1,4 +1,2 @@
 # MyGitDemo
-Demo to learn github
-
-First step in GitHub
+Demo to learn github.
